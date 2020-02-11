@@ -1,4 +1,4 @@
 # Academic
 Academic study.  
-*BE:Bachelor's study.
-*ME:Master's studies.
+*BE:Bachelor's study.  
+*MS:Master's studies.
